@@ -1,15 +1,15 @@
 
       <svg
-        width="317.73333072662354"
+        width="304"
         height="195"
-        viewBox="0 0 317.73333072662354 195"
+        viewBox="0 0 304 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Lim Jun Hong&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  : 325, Total PRs: 13, Total Issues: 0, Contributed to (last year): 4</desc>
+        <title id="titleId">GitHub Telemetry, Rank: C</title>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  : 326, Total PRs: 13, Total Issues: 0, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 223.310690917542;
+        stroke-dashoffset: 223.2875207691373;
       }
     }
   
@@ -117,7 +117,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="316.73333072662354"
+          width="303"
           fill="#050816"
           stroke-opacity="0"
         />
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Lim Jun Hong&#39;s GitHub Stats</text>
+      >GitHub Telemetry</text>
     </g>
       </g>
     
@@ -173,7 +173,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >325</text>
+      >326</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -218,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >5</text>
     </g>
   </g>
     </svg>
