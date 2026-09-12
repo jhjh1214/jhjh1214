@@ -25,18 +25,18 @@ jobs:
         with:
           card: stats
           options: >-
-            username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=C9D1D9&icon_color=8B5CF6&ring_color=EC4899
+            username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=C9D1D9&icon_color=8B5CF6&ring_color=EC4899&custom_title=GitHub%20Telemetry
           path: assets/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Generate language telemetry
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: >-
-            username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=8B5CF6&text_color=C9D1D9
+            username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=8B5CF6&text_color=C9D1D9&custom_title=Language%20Distribution
           path: assets/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Commit generated telemetry
         run: |
