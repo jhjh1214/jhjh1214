@@ -1,610 +1,589 @@
 <div align="center">
 
-# `JHJH1214`
+<a href="https://github.com/jhjh1214">
 
-### `LIM JUN HONG`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:111C3A,55:30206B,80:6D28D9,100:00E5FF&height=240&section=header&text=JHJH1214&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=LIM%20JUN%20HONG%20%2F%2F%20SOFTWARE%20ENGINEER&descAlignY=59&descSize=19&animation=fadeIn" width="100%"/>
 
-**SOFTWARE ENGINEER · BUILDER · RESEARCHER**
+</a>
 
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   JHJH1214.EXE                                      ● ONLINE       ║
-║                                                                    ║
-║   ┌────────────────────────────────────────────────────────────┐   ║
-║   │                                                            │   ║
-║   │   PLAYER              LIM JUN HONG                         │   ║
-║   │   CLASS               SOFTWARE ENGINEER                    │   ║
-║   │   REGION              MALAYSIA                             │   ║
-║   │                                                            │   ║
-║   │   SPECIALIZATION      FULL-STACK / AI / SYSTEMS            │   ║
-║   │                                                            │   ║
-║   │   CURRENT MODE        BUILDING                             │   ║
-║   │                                                            │   ║
-║   └────────────────────────────────────────────────────────────┘   ║
-║                                                                    ║
-║   [ RESEARCH ]   [ PRODUCT ]   [ OPEN SOURCE ]   [ AI ]           ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=850&color=00E5FF&center=true&vCenter=true&width=800&lines=ENGINEERING+SYSTEMS+FROM+HARDWARE+TO+AI;FULL-STACK+%7C+BACKEND+%7C+AI+%7C+IOT+%7C+BLOCKCHAIN;RESEARCH+%E2%86%92+ENGINEERING+%E2%86%92+PRODUCT;BUILD.+BREAK.+FIX.+SHIP." alt="JHJH1214"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/●%20ONLINE-00E5FF?style=for-the-badge&labelColor=070B16"/>
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-8B5CF6?style=for-the-badge&labelColor=070B16"/>
+<img src="https://img.shields.io/badge/MALAYSIA-22C55E?style=for-the-badge&labelColor=070B16"/>
+<img src="https://img.shields.io/badge/SYSTEMS%20%2B%20AI-EC4899?style=for-the-badge&labelColor=070B16"/>
+
+<br><br>
 
 <a href="https://github.com/jhjh1214">
-<img src="https://img.shields.io/badge/GitHub-JHJH1214-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://komarev.com/ghpvc/?username=jhjh1214&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 </a>
 
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:EC4899&height=4&section=header" width="92%"/>
+
+# `PLAYER // JHJH1214`
+
+<img src="https://img.shields.io/badge/ROLE-BUILDER-00E5FF?style=flat-square&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/MODE-SHIPPING-22C55E?style=flat-square&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/SPECIALTY-SYSTEMS-8B5CF6?style=flat-square&labelColor=0B1020"/>
+
+</div>
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+## IDENTITY
+
+**Lim Jun Hong**
+
+Software Engineer · Builder · Researcher
+
+I build software across the entire stack, from **physical hardware and embedded firmware** to backend systems, databases, web applications, mobile applications, AI/LLM systems and blockchain infrastructure.
+
+The projects I enjoy most sit at the intersection of multiple disciplines.
+
+A system where the **hardware has to work**, the **software has to make sense**, and the **data has to be trustworthy**.
+
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=jhjh1214&style=flat-square&color=blueviolet&label=PROFILE+VISITORS" />
+**Engineering philosophy**
+
+> Don't just demonstrate the idea.
+> **Build the system.**
+
+</td>
+
+<td width="48%" valign="top">
+
+## LOADOUT
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42"/>
+
+</div>
+
+<br>
+
+`AI / LLM` · `RFID / IoT` · `Blockchain`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🏅 `ACHIEVEMENT // RARE DROP`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,35:F59E0B,65:EC4899,100:7C3AED&height=5&section=header" width="85%"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/YOUTH%20RESEARCHER%20ENCOURAGEMENT%20AWARD-FFD700?style=for-the-badge&labelColor=111827"/>
+
+<br><br>
+
+### AI-DRIVEN AND LLM-BASED ASSISTANT SMART INVENTORY MANAGEMENT SYSTEM WITH RFID AND IOT
+
+<br>
+
+**8th UEC ASEAN Seminar and Workshop 2026**
+
+<br>
+
+<img src="https://img.shields.io/badge/AWARDED%20BY-THE%20UNIVERSITY%20OF%20ELECTRO--COMMUNICATIONS%20%7C%20UEC%20TOKYO-2563EB?style=for-the-badge&labelColor=0B1020"/>
+
+</div>
+
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
+
+### `01`
+
+<img src="https://img.shields.io/badge/UNDERGRADUATE-ONLY%20ONE-EC4899?style=for-the-badge&labelColor=111827"/>
+
+<br><br>
+
+**The only undergraduate**
+
+among the participating
+
+**Master's and Doctoral students**
+
+to receive the award.
+
+</td>
+
+<td width="65%" valign="top">
+
+### 🧠 MORE THAN A RESEARCH PAPER
+
+This wasn't simply a research proposal or conceptual AI study.
+
+I **designed and developed the actual working system** from the physical hardware layer all the way to intelligent software.
+
+### HARDWARE
+
+* ESP32 microcontroller
+* MFRC522 RFID reader
+* RFID-tagged inventory
+* Custom ESP32 firmware
+* Physical hardware prototype
+* Device communication and integration
+
+### SOFTWARE
+
+* Inventory management system
+* RFID event processing
+* Persistent inventory records
+* Structured audit trail
+* Operational analytics
+* AI-driven analytics
+* LLM-based assistant
+* System-level workflow design
+
+The result was a complete **hardware → IoT → inventory → audit → analytics → AI/LLM** pipeline.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ESP32-00A67D?style=for-the-badge&logo=espressif&logoColor=white&labelColor=071B18"/>
+<img src="https://img.shields.io/badge/RFID-MFRC522-00E5FF?style=for-the-badge&labelColor=07131C"/>
+<img src="https://img.shields.io/badge/IoT-HARDWARE-06B6D4?style=for-the-badge&labelColor=07131C"/>
+<img src="https://img.shields.io/badge/AI-ANALYTICS-8B5CF6?style=for-the-badge&labelColor=100B1F"/>
+<img src="https://img.shields.io/badge/LLM-ASSISTANT-EC4899?style=for-the-badge&labelColor=210B19"/>
+<img src="https://img.shields.io/badge/AUDIT-TRAIL-F59E0B?style=for-the-badge&labelColor=211607"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**From RFID hardware to intelligent decision support.**
+
+### `PHYSICAL WORLD  →  DIGITAL WORLD  →  INTELLIGENT SYSTEM`
 
 </div>
 
 ---
 
-# `> SYSTEM INITIALIZATION`
-
-```text
-Loading developer profile...
-
-[████████████████████████████████████████] 100%
-
-✓ Software Engineering
-✓ Full-Stack Development
-✓ Artificial Intelligence
-✓ LLM Systems
-✓ Blockchain
-✓ IoT / RFID
-✓ Mobile Development
-✓ Backend Architecture
-✓ Open Source
-✓ Real-World Product Development
-
-SYSTEM STATUS: READY
-```
-
-I'm **Lim Jun Hong**, a software engineer and builder from Malaysia.
-
-I like taking ideas that sound like:
-
-> *"Wouldn't it be cool if we could..."*
-
-and turning them into something that actually **runs**.
-
-My work sits at the intersection of **software engineering, AI, research and real-world products**.
-
-I've built systems ranging from **blockchain-based vehicle service platforms** and **AI/LLM-powered inventory systems** to software currently being developed for a real client.
-
-I'm especially interested in the part where everything gets connected:
-
-```text
-       IDEA
-        │
-        ▼
-   ARCHITECTURE
-        │
-        ▼
-       CODE
-        │
-        ▼
-     SYSTEM
-        │
-        ▼
-     DEPLOYMENT
-        │
-        ▼
-      USERS
-```
-
----
-
-# `> MISSION CONTROL`
-
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                        ACTIVE MISSIONS                          ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  [ LIVE ]     MILANDECOR                                        ║
-║               Real Client Software Platform                     ║
-║               STATUS: ███████████████████░░░░░  BUILDING        ║
-║                                                                  ║
-║  [ AWARDED ]  VEHICLECHAIN                                      ║
-║               Blockchain Vehicle Service System                  ║
-║               STATUS: ████████████████████████████  COMPLETE    ║
-║                                                                  ║
-║  [ RESEARCH ] SMART INVENTORY                                   ║
-║               AI + LLM + RFID + IoT                             ║
-║               STATUS: ██████████████████████████░  RESEARCH     ║
-║                                                                  ║
-║  [ OSS ]      OPEN SOURCE                                      ║
-║               Production-grade ecosystem contributions           ║
-║               STATUS: ████████████████░░░░░░░░  ACTIVE         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-# `> ACHIEVEMENT DATABASE`
-
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                       ACHIEVEMENT UNLOCKED                      ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  🥇  PRISM 2026 — GOLD AWARD                                   ║
-║      VehicleChain                                                 ║
-║                                                                  ║
-║  🥈  PRISM 2026 — 2ND RUNNER-UP                                ║
-║      VehicleChain                                                 ║
-║                                                                  ║
-║  🏆  YOUTH RESEARCHER ENCOURAGEMENT AWARD                      ║
-║      AI-Driven & LLM-Based Smart Inventory Management System      ║
-║      RFID + IoT                                                   ║
-║      UEC · 8th UEC ASEAN Seminar & Workshop · 2026              ║
-║                                                                  ║
-║  ⚔️  OPEN SOURCE CONTRIBUTOR                                   ║
-║      Production software ecosystem contributions                  ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-### `AWARD LOG`
-
-| Achievement | Project                               | Recognition                           |
-| ----------- | ------------------------------------- | ------------------------------------- |
-| 🥇          | **VehicleChain**                      | PRISM 2026 Gold Award                 |
-| 🥈          | **VehicleChain**                      | PRISM 2026 2nd Runner-Up              |
-| 🏆          | **Smart Inventory Management System** | Youth Researcher Encouragement Award  |
-| 🌏          | **Smart Inventory Management System** | UEC 8th ASEAN Seminar & Workshop 2026 |
-
----
-
-# `> LEGENDARY PROJECT`
-
-## ⛓️ VEHICLECHAIN
-
-### `Blockchain-Based Vehicle Service & Warranty System`
-
-```text
-RARITY       ★★★★★  LEGENDARY
-CATEGORY     FULL-STACK / BLOCKCHAIN
-STATUS       AWARD-WINNING
-```
-
-VehicleChain is a blockchain-based platform designed to improve the **trust, verification and traceability of vehicle service and warranty records**.
-
-Instead of treating a vehicle's service history as another database entry, the system explores how multiple parties can participate in creating and verifying a trustworthy service record.
-
-```text
-                    VEHICLECHAIN
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-       DEALER          OWNER         VEHICLE
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                         ▼
-                 VERIFICATION LAYER
-                         │
-             ┌───────────┴───────────┐
-             ▼                       ▼
-        APPLICATION                BLOCKCHAIN
-             │                       │
-             ▼                       ▼
-        DATABASE              VERIFIABLE RECORD
-```
-
-### `TECH STACK`
-
-```text
-FRONTEND
-├── Angular
-├── TypeScript
-└── Flutter / Dart
-
-BACKEND
-├── Python
-├── Flask
-├── REST API
-└── JWT Authentication
-
-DATA
-├── PostgreSQL
-└── Firebase
-
-BLOCKCHAIN
-├── Solidity
-├── Smart Contracts
-└── Ethereum Development Tooling
-
-DEPLOYMENT
-└── Railway
-```
-
-### `ENGINEERING FOCUS`
-
-* Multi-party verification
-* Vehicle service records
-* Warranty information
-* Blockchain-backed records
-* Smart contracts
-* Authentication & authorization
-* Web application
-* Mobile application
-* Backend API
-* Database persistence
-* Push notifications
-* Deployment architecture
-
-### `RECOGNITION`
-
-```text
-╔════════════════════════════════════════════╗
-║                                            ║
-║       🥇 PRISM 2026 — GOLD AWARD          ║
-║                                            ║
-║       🥈 PRISM 2026 — 2ND RUNNER-UP       ║
-║                                            ║
-╚════════════════════════════════════════════╝
-```
-
-**Repository:**
-https://github.com/jhjh1214/blockchain-vehicle-service
-
----
-
-# `> RESEARCH LAB`
-
-## 🧠 AI-DRIVEN SMART INVENTORY
-
-### `AI + LLM + RFID + IoT`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     SMART INVENTORY                         │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│       RFID                    IoT                           │
-│        │                       │                            │
-│        └───────────┬───────────┘                            │
-│                    ▼                                        │
-│              INVENTORY DATA                                 │
-│                    │                                        │
-│                    ▼                                        │
-│              AI PROCESSING                                  │
-│                    │                                        │
-│                    ▼                                        │
-│               LLM LAYER                                    │
-│                    │                                        │
-│                    ▼                                        │
-│             SMART ASSISTANT                                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-An **AI-driven and LLM-based smart inventory management system** combining physical inventory tracking with intelligent software assistance.
-
-The system explores how **RFID and IoT data** can be connected with modern AI/LLM technology to create a smarter inventory management workflow.
-
-### `RESEARCH RECOGNITION`
-
-> 🏆 **Youth Researcher Encouragement Award**
-> UEC — 8th UEC ASEAN Seminar & Workshop 2026
-
-This project represents another side of my engineering interests:
-
-**not just building software, but exploring what software can become when combined with emerging technologies.**
-
----
-
-# `> LIVE OPERATIONS`
-
-## 🏢 MILANDECOR
-
-### `Real Client Software Platform`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                       LIVE CLIENT                           ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  CLIENT       MilanDecor                                     ║
-║  PROJECT      Milan Software                                 ║
-║  STATUS       🟢 ACTIVE DEVELOPMENT                          ║
-║                                                              ║
-║  TYPE         Business Management Platform                  ║
-║                                                              ║
-║  MODULES                                                     ║
-║  ├── Quotation Management                                    ║
-║  ├── Mobile Application                                      ║
-║  ├── Web Dashboard                                           ║
-║  ├── Business Operations                                     ║
-║  ├── Analytics                                               ║
-║  └── AI-Assisted Workflows                                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-**Milan Software** is an ongoing software project being developed for **MilanDecor**, with the goal of turning day-to-day business operations into a more connected digital workflow.
-
-The platform currently spans:
-
-```text
-        MOBILE APP
-             │
-             ▼
-       ┌───────────┐
-       │  BACKEND  │
-       └─────┬─────┘
-             │
-       ┌─────┴─────┐
-       ▼           ▼
-   DATABASE     WEB DASHBOARD
-       │
-       ▼
-  BUSINESS DATA
-       │
-       ▼
-   AI WORKFLOWS
-```
-
-The project is **still actively being developed**.
-
----
-
-# `> OPEN SOURCE NETWORK`
-
-I don't want my development experience to exist only inside university projects.
-
-I also spend time contributing to and exploring **real-world open-source ecosystems**.
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                  OPEN SOURCE LOADOUT                    ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  ✓ PayloadCMS contribution                              ║
-║  ✓ Fastify contribution                                 ║
-║  ✓ TypeScript ecosystem                                 ║
-║  ✓ Backend / API ecosystems                              ║
-║  ✓ Production-oriented development                       ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-### `WHY OSS?`
-
-Because reading source code is useful.
-
-**Changing someone else's source code is better.**
-
-You have to understand:
-
-* existing architecture
-* conventions
-* tests
-* backwards compatibility
-* maintainability
-* review feedback
-* how other engineers think
-
-That's a completely different skill from building a project from scratch.
-
----
-
-# `> TECH TREE`
-
-```text
-                                  SOFTWARE
-                                     │
-                ┌────────────────────┼────────────────────┐
-                │                    │                    │
-                ▼                    ▼                    ▼
-             FRONTEND              BACKEND                AI
-                │                    │                    │
-        ┌───────┼───────┐     ┌──────┼──────┐      ┌─────┼─────┐
-        │       │       │     │      │      │      │     │     │
-      Angular Flutter TypeScript Flask Python Node   LLM  RAG  APIs
-        │       │       │     │      │      │      │     │     │
-        └───────┴───────┘     └──────┴──────┘      └─────┴─────┘
-                │                    │                    │
-                └────────────────────┼────────────────────┘
-                                     │
-                                     ▼
-                              SYSTEM BUILDING
-                                     │
-                    ┌────────────────┼────────────────┐
-                    ▼                ▼                ▼
-                DATABASE          DEVOPS          EMERGING
-                    │                │             TECH
-              PostgreSQL          Docker          │
-              SQLite              Linux           ├── Blockchain
-                                        Git        ├── IoT
-                                                   ├── RFID
-                                                   └── Smart Contracts
-```
-
-### `LANGUAGES`
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge\&logo=dart\&logoColor=0175C2)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-
-### `FRAMEWORKS`
-
-![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge\&logo=angular\&logoColor=DD0031)
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge\&logo=flutter\&logoColor=54C5F8)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge\&logo=flask\&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js\&logoColor=339933)
-
-### `DATABASE / INFRASTRUCTURE`
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge\&logo=sqlite\&logoColor=003B57)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
-
-### `AI / EMERGING TECHNOLOGY`
-
-![OpenAI](https://img.shields.io/badge/LLM-111111?style=for-the-badge)
-![Blockchain](https://img.shields.io/badge/Blockchain-111111?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-111111?style=for-the-badge)
-![RFID](https://img.shields.io/badge/RFID-111111?style=for-the-badge)
-
----
-
-# `> ENGINEERING PHILOSOPHY`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  01  BUILD                                                  │
-│      A working system teaches more than another tutorial.   │
-│                                                              │
-│  02  UNDERSTAND                                             │
-│      Frameworks change. Engineering fundamentals compound.  │
-│                                                              │
-│  03  EXPERIMENT                                              │
-│      AI, blockchain, IoT and new tools are playgrounds.      │
-│                                                              │
-│  04  SHIP                                                   │
-│      Ideas become valuable when someone can actually use    │
-│      them.                                                   │
-│                                                              │
-│  05  CONTRIBUTE                                             │
-│      Don't just consume open source. Learn to improve it.   │
-│                                                              │
-│  06  KEEP LEVELING UP                                       │
-│      Every bug is XP. Every failure is telemetry.           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `> PLAYER STATISTICS`
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jhjh1214&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+# 🥇 `ACHIEVEMENT // VEHICLECHAIN`
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhjh1214&layout=compact&hide_border=true&theme=transparent" />
+<a href="https://github.com/jhjh1214/blockchain-vehicle-service">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,30:172554,65:312E81,100:06B6D4&height=115&section=header&text=VEHICLECHAIN&fontSize=43&fontColor=FFFFFF&animation=fadeIn" width="82%"/>
+
+</a>
+
+### BLOCKCHAIN × AUTOMOTIVE × FULL-STACK
+
+<br>
+
+<img src="https://img.shields.io/badge/PRISM%202026-GOLD%20AWARD-FFD700?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/PRISM%202026-2ND%20RUNNER%20UP-C0C0C0?style=for-the-badge&labelColor=111827"/>
 
 </div>
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### THE PROBLEM
+
+Vehicle service and warranty records need to be trustworthy.
+
+VehicleChain explores how blockchain can provide an additional integrity layer for automotive records while still maintaining a practical multi-platform application.
+
+### SYSTEM
+
+**Mobile**
+
+Flutter
+
+↓
+
+**Backend**
+
+Python / Flask
+
+↓
+
+**Database**
+
+PostgreSQL
+
+↓
+
+**Integrity Layer**
+
+Private Ethereum + Solidity
+
+↓
+
+**Stakeholders**
+
+Dealer · Owner · Admin · Service
+
+</td>
+
+<td width="42%" valign="top">
+
+### TECHNOLOGY
+
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,angular,typescript,flutter,dart,firebase&perline=4"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ganache-EF4444?style=flat-square"/>
+
+<br><br>
+
+**Engineering**
+
+`702` automated tests
+
+`38` security attack vectors
+
+`25` vulnerabilities identified & fixed
+
+`0` high/critical Slither findings in application contracts
+
+<br>
+
+<a href="https://github.com/jhjh1214/blockchain-vehicle-service">
+
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jhjh1214&theme=transparent&hide_border=true" />
+# 🟣 `LIVE // MILANDECOR`
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,30:3B0764,60:6D28D9,100:EC4899&height=115&section=header&text=MILANDECOR&fontSize=43&fontColor=FFFFFF&animation=fadeIn" width="82%"/>
+
+### REAL CLIENT · REAL BUSINESS · ACTIVE DEVELOPMENT
+
+<br>
+
+<img src="https://img.shields.io/badge/PROJECT-ACTIVE-22C55E?style=for-the-badge&labelColor=07150D"/>
+<img src="https://img.shields.io/badge/TYPE-CLIENT%20SOFTWARE-8B5CF6?style=for-the-badge&labelColor=100B1F"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00E5FF?style=for-the-badge&labelColor=07131C"/>
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### MILANSOFTWARE
+
+An ongoing software platform developed for **MilanDecor**.
+
+This is a real client project built around actual business workflows, rather than a university demonstration.
+
+### CURRENT PLATFORM
+
+* Mobile quotation workflow
+* Web management dashboard
+* Business data management
+* Authentication & access control
+* Backend services
+* Persistent database layer
+* Modular business architecture
+* AI integration architecture
+
+The system is being developed incrementally, with the core product coming first and intelligent capabilities being introduced as the architecture matures.
+
+</td>
+
+<td width="40%" valign="top">
+
+### PRODUCT MINDSET
+
+```text
+REQUIREMENT
+     ↓
+ARCHITECTURE
+     ↓
+IMPLEMENTATION
+     ↓
+TESTING
+     ↓
+REAL FEEDBACK
+     ↓
+ITERATION
+```
+
+<br>
+
+**Not a demo.**
+
+**Not a mockup.**
+
+**A real system for a real client.**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🌐 `OPEN SOURCE // NETWORK`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0369A1,100:00E5FF&height=85&section=header&text=OPEN%20SOURCE&fontSize=34&fontColor=FFFFFF" width="78%"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### CONTRIBUTIONS
+
+I've worked with established open-source ecosystems including:
+
+<a href="https://payloadcms.com/">
+<img src="https://img.shields.io/badge/PayloadCMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white"/>
+</a>
+
+<a href="https://fastify.dev/">
+<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
+</a>
+
+<a href="https://click.palletsprojects.com/">
+<img src="https://img.shields.io/badge/Click-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### WHY IT MATTERS
+
+Working in OSS means entering a codebase where:
+
+* you didn't design the architecture
+* you don't control the conventions
+* other engineers review your work
+* your changes have to fit the existing system
+
+That experience is fundamentally different from coding alone.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🧬 `TECH // MATRIX`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:7C3AED,100:00E5FF&height=4&section=header" width="90%"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,java,c,solidity&perline=7"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=flask,angular,flutter,nodejs,react,postgres,docker&perline=7"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,firebase,arduino,raspberrypi&perline=6"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20LLM-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/RFID%20%2F%20IoT-00E5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/EMBEDDED-22C55E?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BLOCKCHAIN-EC4899?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SECURITY-F59E0B?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-# `> ACTIVITY MATRIX`
+<div align="center">
 
-```text
-             ┌──────────────────────────────────────────┐
-             │                                          │
-             │        CONTRIBUTION MATRIX               │
-             │                                          │
-             │   ░ ░ ▒ ▒ ▓ ▓ █ █ █ ▓ ▒ ░ ░            │
-             │   ░ ▒ ▓ █ █ ▓ ▒ ░ ░ ▒ ▓ █            │
-             │   ▒ ▓ █ ▓ ▒ ░ ▒ ▓ █ ▓ ▒ ░            │
-             │   ░ ▒ ▓ █ ▓ ▒ ░ ▒ ▓ █ █ ▓            │
-             │                                          │
-             │   BUILD. BREAK. FIX. REPEAT.            │
-             │                                          │
-             └──────────────────────────────────────────┘
-```
+# 📊 `PLAYER // ANALYTICS`
 
----
+<br>
 
-# `> CURRENT OBJECTIVE`
+<img src="https://github-readme-stats.vercel.app/api?username=jhjh1214&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=070B16&title_color=8B5CF6&icon_color=00E5FF&text_color=C9D1D9&ring_color=EC4899" height="175"/>
 
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║                         NEXT LEVEL                               ║
-║                                                                  ║
-║   Become the engineer who can take a system from:                ║
-║                                                                  ║
-║             IDEA                                                 ║
-║               ↓                                                  ║
-║          ARCHITECTURE                                            ║
-║               ↓                                                  ║
-║             CODE                                                 ║
-║               ↓                                                  ║
-║           INTEGRATION                                            ║
-║               ↓                                                  ║
-║           DEPLOYMENT                                             ║
-║               ↓                                                  ║
-║             USERS                                                ║
-║                                                                  ║
-║   without being afraid of the layers in between.                ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhjh1214&layout=compact&langs_count=8&hide_border=true&bg_color=070B16&title_color=8B5CF6&text_color=C9D1D9" height="175"/>
 
-### `CURRENTLY EXPLORING`
+<br><br>
 
-```text
-AI SYSTEMS
-├── LLM-powered applications
-├── RAG
-├── AI-assisted workflows
-├── Local / hosted models
-└── Production AI architecture
+<img src="https://streak-stats.demolab.com?user=jhjh1214&hide_border=true&background=070B16&ring=8B5CF6&fire=EC4899&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
-SOFTWARE ENGINEERING
-├── Backend architecture
-├── System design
-├── Authentication
-├── Deployment
-└── Performance
+<br><br>
 
-OPEN SOURCE
-├── Production codebases
-├── Contribution workflows
-├── Code review
-└── Maintainable architecture
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhjh1214&bg_color=070B16&color=C9D1D9&line=8B5CF6&point=00E5FF&area=true&hide_border=true" width="94%"/>
+
+</div>
 
 ---
-
-# `> CONTACT PROTOCOL`
 
 <div align="center">
 
-If you're building something interesting, **let's talk.**
+# 🧭 `ENGINEERING // MAP`
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+
+### BACKEND
+
+APIs
+Architecture
+Databases
+Security
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55"/>
+
+### APPLICATIONS
+
+Web
+Mobile
+Dashboards
+Business Systems
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55"/>
+
+### PHYSICAL
+
+ESP32
+RFID
+IoT
+Embedded
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="55"/>
+
+### TRUST
+
+Blockchain
+Audit Trails
+Integrity
+Security
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### `THE INTERSECTION IS WHERE I LIKE TO BUILD.`
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 `CURRENT MISSION`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=BUILD+REAL+SOFTWARE;GO+DEEPER+INTO+BACKEND+ENGINEERING;SHIP+MORE+OPEN+SOURCE;EXPLORE+PRACTICAL+AI;TURN+IDEAS+INTO+SYSTEMS" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILD-00E5FF?style=for-the-badge&labelColor=07131C"/>
+<img src="https://img.shields.io/badge/LEARN-8B5CF6?style=for-the-badge&labelColor=100B1F"/>
+<img src="https://img.shields.io/badge/SHIP-22C55E?style=for-the-badge&labelColor=07150D"/>
+<img src="https://img.shields.io/badge/IMPROVE-EC4899?style=for-the-badge&labelColor=210B19"/>
+
+<br><br>
+
+### `RESEARCH → ENGINEERING → PRODUCT → IMPACT`
+
+</div>
+
+---
+
+<div align="center">
+
+# 📡 `CONTACT // JHJH1214`
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-JHJH1214-181717?style=for-the-badge\&logo=github)](https://github.com/jhjh1214)
+<a href="https://github.com/jhjh1214">
+<img src="https://img.shields.io/badge/GITHUB-JHJH1214-181717?style=for-the-badge&logo=github"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LIM_JUN_HONG-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
+<a href="https://www.linkedin.com/in/lim-jun-hong-346857366/">
+<img src="https://img.shields.io/badge/LINKEDIN-LIM%20JUN%20HONG-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br>
+<br><br>
 
-```text
-> CONNECTION ESTABLISHED
-> CHANNEL OPEN
-> WAITING FOR NEXT MISSION_
-```
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,30:7C3AED,65:EC4899,100:050816&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 ### `THE GAME HAS JUST STARTED.`
-
-<sub>Built with curiosity, caffeine, Git commits, questionable debugging decisions, and an unreasonable number of tabs.</sub>
 
 </div>
